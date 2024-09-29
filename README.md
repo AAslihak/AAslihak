@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AAslihak
-- 👀 I’m interested in computer-vision and deep learning.
-- 🌱 I’m currently learning stereo matching. 
-- 📫 Send an e-mail to anil.aslihak@metu.edu.tr to reach me!
+- 📫 Send an e-mail to aaslihak@ucsd.edu to reach me!
 
 <!---
 AAslihak/AAslihak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
