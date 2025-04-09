@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AAslihak
+- 👋 Hi, I’m Anil Aslihak
 - 📫 Send an e-mail to aaslihak@ucsd.edu to reach me!
 
 <!---
